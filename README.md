@@ -21,6 +21,7 @@ For this project, I was interested in the Google Books data set to try and under
 3. Does length of the book impact the rating?
 4. Does the price of the book impact the rating?
 5. What genres are most common?
+
 Many other questions could also be answered from this data set but this is what I started with for the exploratory analysis. The majority of the code in this data set should hopefully lend itself well to other data sets with more rows of books.
 
 ## File Descriptions
