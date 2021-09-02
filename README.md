@@ -8,7 +8,7 @@ This repository contains the files and information for my Udacity Data Scientist
 2. [Project Motivation](#project-motivation)
 3. [File Descriptions](#file-descriptions)
 4. [Results of Analysis](#results-of-analysis)
-5. [Licencing, Authors and Other Acknowledgements]
+5. [Licencing, Authors and Other Acknowledgements](#licensing-authors-and-other-acknowledgements)
 
 ## Installations Needed
 
