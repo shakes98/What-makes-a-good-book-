@@ -25,14 +25,18 @@ For this project, I was interested in the Google Books data set to try and under
 Many other questions could also be answered from this data set but this is what I started with for the exploratory analysis. The majority of the code in this data set should hopefully lend itself well to other data sets with more rows of books.
 
 ## File Descriptions
-The file used for the analysis can be found in kaggle: https://www.kaggle.com/bilalyussef/google-books-dataset?select=google_books_dataset.csv. I used the google_books_1299 as this contained more columns of interest and looked more complete. A copy of this can be found in this repository
+The file used for the analysis can be found in kaggle [here](https://www.kaggle.com/bilalyussef/google-books-dataset). I used the google_books_1299 as this contained more columns of interest and looked more complete. A copy of this can be found in this repository
 
 Additionally, theere is 1 notebook avaiable here to showcase the work related to the questions that are above. 
 
 ## Results of Analysis
+The main findings of the analysis can be found in my post on Medium (here).
+
+As a summary, we looked at the top authors/books and checked for correlation against the price variable.
+After cleaning the data I found that the data set had many duplicates, which massively reduced the data set size. Therefore, in future I would like to do the same analysis on a larger data set to hopefully get more conclusive results.
 
 ## Licensing, Authors and Other Acknowledgements
-
+I must give credit to Bilal Yussef who puplished the data on Kaggle [here](https://www.kaggle.com/bilalyussef/google-books-dataset). All the licensing for the data and other information will be available at that link.
 
 
 
