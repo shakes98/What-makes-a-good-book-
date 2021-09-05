@@ -27,7 +27,7 @@ Many other questions could also be answered from this data set but this is what 
 ## File Descriptions
 The file used for the analysis can be found in kaggle [here](https://www.kaggle.com/bilalyussef/google-books-dataset). I used the google_books_1299 as this contained more columns of interest and looked more complete. A copy of this can be found in this repository
 
-Additionally, theere is 1 notebook avaiable to showcase the work related to the questions that are above. 
+Additionally, theere is 1 notebook avai;able to showcase the work related to the questions that are above. 
 
 ## Results of Analysis
 The main findings of the analysis can be found in my post on Medium [here](https://medium.com/@samanthahakes/what-makes-a-good-book-1440b80d6ada).
