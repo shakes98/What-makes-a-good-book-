@@ -30,7 +30,7 @@ The file used for the analysis can be found in kaggle [here](https://www.kaggle.
 Additionally, theere is 1 notebook avaiable to showcase the work related to the questions that are above. 
 
 ## Results of Analysis
-The main findings of the analysis can be found in my post on Medium (here).
+The main findings of the analysis can be found in my post on Medium [here](https://medium.com/@samanthahakes/what-makes-a-good-book-1440b80d6ada).
 
 As a summary, we looked at the top authors/books and checked for correlation against the price variable.
 After cleaning the data I found that the data set had many duplicates, which massively reduced the data set size. Therefore, in future I would like to do the same analysis on a larger data set to hopefully get more conclusive results.
